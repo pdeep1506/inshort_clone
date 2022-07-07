@@ -13,8 +13,10 @@ function App() {
   
   const newsApi = async()=>{
     try{
-      const news = await axios.get(`https://newsapi.org/v2/top-headlines?country=in&apiKey=${apiKey}&category=${category}`)
+      // const news = await axios.get(`https://newsapi.org/v2/top-headlines?country=in&apiKey=${apiKey}&category=${category}`)
       // console.log(news.data)
+      const news = await axios.get(`https://saurav.tech/NewsAPI/top-headlines/category/${category}/in.json`)
+
      
 
       setnewsResults(news.data.totalResults)
