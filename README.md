@@ -22,7 +22,7 @@ The ReactJS News Reader - Inshorts Clone is a web application that allows users 
 
 4. **User-Friendly Interface:** The user interface is designed for ease of use, with a clean and intuitive layout that allows users to navigate effortlessly between different categories and news articles.
 
-5. **Search Functionality:** Users can search for specific news topics or keywords to find articles of interest quickly.
+
 
 **Technologies Used:**
 
@@ -42,13 +42,7 @@ The ReactJS News Reader - Inshorts Clone is a web application that allows users 
 
 - **User Engagement:** The intuitive design and quick access to news articles encourage users to engage with the platform regularly.
 
-**Future Enhancements:**
 
-- **User Accounts:** Implement user accounts to allow users to personalize their news preferences and save favorite articles.
-
-- **Push Notifications:** Introduce push notifications to alert users about breaking news or articles in their chosen categories.
-
-- **Social Sharing:** Enable users to share news articles on social media platforms, increasing the application's reach.
 
 **Conclusion:**
 
